@@ -1,0 +1,9 @@
+body{
+    background: #73594c;
+}
+.secDev{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
